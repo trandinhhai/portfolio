@@ -13,7 +13,7 @@ This is a responsive personal portfolio website built using **HTML**, **CSS**, a
 
 ## 📸 Preview
 
-![Portfolio Preview](./preview.png](https://github.com/trandinhhai/portfolio/blob/main/img/Screenshot%202025-06-25%20141309.png)) <!-- Replace with the actual path if you upload image to repo -->
+![Portfolio Preview](https://github.com/trandinhhai/portfolio/blob/main/img/Screenshot%202025-06-25%20141309.png) <!-- Replace with the actual path if you upload image to repo -->
 
 ## 🛠️ Built With
 
